@@ -12,7 +12,7 @@ import json
 
 import sys
 
-class MonoPhoneHMM():
+class MonoPhoneHMM(object):
     ''' HMMクラス
     Monophone HMMを定義
     Left-to-right 型
